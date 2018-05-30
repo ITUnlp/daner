@@ -12,6 +12,9 @@ To run:
   * `daner <textfile>` (Windows)
   * `./daner <textfile>` (Mac or Linux)
 
-References:
+## References
 * DKIE - Derczynski et al. (2014). "DKIE: Open Source Information Extraction for Danish". In Proceedings of EACL
 * Stanford NER - Jenny Rose Finkel, Trond Grenager, and Christopher Manning. (2005). "Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling". Proceedings of the 43nd Annual Meeting of the Association for Computational Linguistics (ACL 2005), pp. 363-370.
+ 
+## License
+daner is licensed as [GNU GPL v3](http://www.gnu.org/licenses/gpl.html), inherited from Stanford CoreNLP.
